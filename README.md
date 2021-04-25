@@ -1,1 +1,1 @@
-# This repository contains python used cases , codes , assignments , concepts .
+# This repository contains python  codes , assignments , concepts .
